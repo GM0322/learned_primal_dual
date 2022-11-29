@@ -1,9 +1,13 @@
 # learned_primal_dual
 
 ## required
-'''numpy'''
-'''os'''
-'''pytorch'''
-'''cupy'''
+
+os
+
+pytorch
+
+numpy
+
+cupy
 
 ## parallel beam learned primal dual reconstruction
